@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @nicolaslei2004
-- 👀 I’m interested in front-end web development.
-- 🌱 I’m currently learning basics of HTML, CSS and JavaScript through TheOdinProject.
-- 💞️ I’m looking to collaborate on any beginner-friendly projects that are willing to take me on.
 - 📫 How to reach me: nicolasleicai@gmail.com
 
 <!---
